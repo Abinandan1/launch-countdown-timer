@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import bg from "/public/assets/images/pattern-hills.svg";
+import bg from "../../public/assets/images/pattern-hills.svg";
 export const Wrapper = styled.footer`
   background: url(${bg}) right/cover no-repeat;
   width: 100%;
