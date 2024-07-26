@@ -19,7 +19,7 @@ body {
   font-family: "Red Hat Text";
   color: white;
   font-size: 14px;
-  background: url(./assets/images/bg-stars.svg);
+  background: url(/public/assets/images/bg-stars.svg);
   background-color: var(--main-bg);
   text-transform: uppercase;
 }
